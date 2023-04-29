@@ -50,7 +50,7 @@ header {
 
 .inputs{
 	margin-bottom: 15px;
-	filter: invert(1);
+	filter: invert(2);
 }
 
 #new-task-input{
